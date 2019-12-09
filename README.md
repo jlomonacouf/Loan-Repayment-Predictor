@@ -1,5 +1,5 @@
 # Home Credit Default Risk Prediction:  A Comparison of LightGBM & XGBoost
-   Dania Etienne and Justin LoMonaco, Matthew Barta and Wesley Boyd
+   Dania Etienne, Justin LoMonaco, Matthew Barta, Wesley Boyd
 
 # Motivation
 There are many consumers out there seeking loans, yet lacking the substantial credit history to easily show creditors whether or not the applicant is predictably reliable in paying back the loan. This is a problem that disproportionately affects college-aged students because they have not had an opportunity to build credit as they are just beginning their time as a young adult.  A solution to this would be to use readily available information about potential clients to create a profile of their likelihood to repay the loan based on the likelihood of previous clients with similar information. This would open up more channels of credit opportunity for those of us, like the members of this group, who might not otherwise have a chance to receive a loan due to lack of a credit history, despite being an ideal candidate to repay it back otherwise.
