@@ -14,7 +14,10 @@ The dataset consists of 9 CSV files that together form around 2.5 gigabytes of r
    ### Correlations.txt 
    Contains the correlations of each column contained in the csv files to target variable. 
    ### Visualizations.ipynb
-   Contains visualizations of data, before viewing run pip install seaborn
+   Contains visualizations of data, before viewing run
+   ```
+   pip install seaborn
+   ```
    ### LightGBM.ipynb 
    Document containing preprocessing of the data built upon from Tutorial.ipynb and running LightGBM as the     Classifier. 
    ### XGBoost.ipynb
