@@ -7,6 +7,13 @@ There are many consumers out there seeking loans, yet lacking the substantial cr
 # Dataset
 The dataset consists of 9 CSV files that together form around 2.5 gigabytes of raw data. There is an additional CSV file in the dataset used to describe the meaning of the columns of the other CSV file. There are two files, application_test and application_train, that can be used to provide a baseline for the algorithms we will use to predict the chances of a client paying back a line. In order to provide the best predictions, however, we will be using the data within the 7 other CSV files.
 
+# Files
+Tutorial.ipynb: Gives detailed overview and instructions for completing the pipeline of project. 
+Correlations.txt: Contains the correlations of each column contained in the csv files to target variable. 
+LightGBM.ipynb: Document containing preprocessing of the data built upon from Tutorial.ipynb and running LightGBM as the Classifier. 
+XGBoost.ipynb: Document containing preprocessing of the data built upon from Tutorial.ipynb and running XGBoost as the Classifier.  
+
+
 # Running the Project 
 
   1. In AWS, set the region to us-east-2, Ohio.
